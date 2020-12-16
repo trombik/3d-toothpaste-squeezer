@@ -4,7 +4,7 @@ WRKSRC=	src
 TARGETS=    toothpaste-squeezer.stl
 
 toothpaste-squeezer.stl:	${WRKSRC}/toothpaste-squeezer.FCStd
-	PYTHONPATH="${PYTHONPATH}" python export-stl.FCMacro
+	PYTHONPATH="${PYTHONPATH}" python3 export-stl.FCMacro
 
 all: ${TARGETS}
 
