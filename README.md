@@ -1,6 +1,8 @@
 # Toothpaste Squeezer
 
-A toothpaste squeezer with `Makers` logo. Designed with FreeCAD.
+A remix of [toothpaste squeezer](https://www.thingiverse.com/thing:867811)
+by [chattercoma](https://www.thingiverse.com/chattercoma) with
+`Makers` logo. Designed with FreeCAD.
 
 ## Requirements
 
@@ -39,8 +41,9 @@ mm/s *Initial Layer Speed*.
 
 ## Authors
 
+- [chattercoma](https://www.thingiverse.com/chattercoma) (the original design)
 - [Tomoyuki Sakurai](https://github.com/trombik)
 
 ## License
 
-ISC. See [LICENSE](LICENSE) for details.
+Attribution 4.0 International. See [LICENSE](LICENSE) for details.
