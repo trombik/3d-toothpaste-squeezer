@@ -7,6 +7,6 @@ FreeCAD.open(u"src/toothpaste-squeezer.FCStd")
 App.setActiveDocument("toothpaste_squeezer")
 __objs__=[]
 __objs__.append(FreeCAD.getDocument("toothpaste_squeezer").getObject("Cut"))
-Mesh.export(__objs__,u"toothpaste-squeezer.stl")
+Mesh.export(__objs__,u"./toothpaste-squeezer.stl")
 
 del __objs__
