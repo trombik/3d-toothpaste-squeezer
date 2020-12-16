@@ -19,5 +19,5 @@ jobs:
 
       - name: Build STL files
         run: |
-          fmake
+          fmake PYTHONPATH=/usr/lib/freecad/lib
           ls *.stl
